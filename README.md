@@ -138,18 +138,17 @@ The programs cover:
 * Functions
 * File handling
 
-## Repository Structure
+#Repository Structure
 
-```text
-## Repository Structure
-
-```text
 python-programs/
 │
 ├── README.md
 │
-└── Python Programs.docx
-```
+├── Python Programs.docx
+│
+├── Programs_31-60.ipynb
+│
+└── Programs_61-90.ipynb
 
 The Word document contains the Python code and output for Programs 1–30.
 
@@ -157,8 +156,8 @@ The Word document contains the Python code and output for Programs 1–30.
 ## Progress
 
 * [ ] Programs 1–30  completed.
-* [ ] Programs 31–60
-* [ ] Programs 61–90
+* [ ] Programs 31–60 completed.
+* [ ] Programs 61–90 completed.
 
 ## Purpose
 
